@@ -1,10 +1,10 @@
-# 🏢 Enterprise Campus Network — Cisco Packet Tracer
+# Enterprise Campus Network — Cisco Packet Tracer
 
 A fully implemented dual-site enterprise network designed and configured in Cisco Packet Tracer. The topology spans a **Headquarters (HQ)** campus and a remote **Branch** office, interconnected via a site-to-site **IPSec VPN tunnel** over the public internet.
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature               | Details                                                |
 | --------------------- | ------------------------------------------------------ |
@@ -187,8 +187,6 @@ Enabled on all access-layer ports (`f0/3–24`) on the Branch MLSWs to accelerat
 ---
 
 ## Default Credentials
-
-> These are lab/demo credentials only. Never use in production.
 
 | Field              | Value   |
 | ------------------ | ------- |
